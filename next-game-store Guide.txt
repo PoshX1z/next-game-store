@@ -1,0 +1,9 @@
+(Next JS + Tailwind Fronted Project)
+
+This is game store website, showing all about games. Using next js + tailwind + ... 
+
+
+
+**My first full-scale project with all help available. This happen because I have so much time and have nothing to do. I start from the beginning, design all pages with figma, making a data, and start coding and do everything by myself. By using all help available from internet.
+
+**Possibility, If I have power, I will not stop at frontend, I can do it for every component of website, add backend, throughout that I can scan to pay via scb to my bank account. Of course I need to continue doing it because if time pass, I will do not want to come back and do it again. And yes it is a dream, but I always think I could possible create one-large signature project, don't know what to say but I have a plenty of times. I can make it if I truly have the power.**
